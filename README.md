@@ -2,9 +2,23 @@
 
 **NASA Space Apps Challenge 2026: _Field Shift: Adapting Farms with NASA Data_**
 
-FieldShift Planner is a decision-support web app. A farmer picks their field on a map, says what they grow now and what matters most to them (income, saving water, soil health, low risk), and gets the best **crop rotations for the next 1–3 years**. Each rotation is scored with real NASA Earth observations and explained in plain language.
+<p align="center">
+  <a href="http://165.99.219.251:8099"><img alt="Live demo: open the app" src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-Open%20FieldShift%20Planner-2ea44f?style=for-the-badge"></a>
+  <a href="https://youtu.be/Dg5IeczcbRU"><img alt="Watch the demo video" src="https://img.shields.io/badge/%E2%96%B6%20DEMO%20VIDEO-Watch%20on%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
-🌐 **Live demo:** http://165.99.219.251:8099 · 🎬 **Demo video:** https://youtu.be/Dg5IeczcbRU · Team of Dream (Barisal, Bangladesh)
+> [!IMPORTANT]
+> ### 🌐 The project is live: **[http://165.99.219.251:8099](http://165.99.219.251:8099)**
+> Open the link, pick a field on the map (or try an example such as Mymensingh, Bangladesh) and get NASA-powered crop rotation recommendations in seconds. No sign-up or API key needed.
+>
+> | | Link |
+> |---|---|
+> | 🚀 **Live app** | **http://165.99.219.251:8099** |
+> | 🩺 API health check | http://165.99.219.251:8099/api/health |
+> | 🎬 Demo video | https://youtu.be/Dg5IeczcbRU |
+> | 👥 Team | Team of Dream (Barisal, Bangladesh) |
+
+FieldShift Planner is a decision-support web app. A farmer picks their field on a map, says what they grow now and what matters most to them (income, saving water, soil health, low risk), and gets the best **crop rotations for the next 1–3 years**. Each rotation is scored with real NASA Earth observations and explained in plain language.
 
 The app has four pages with a dark "mission control" design and smooth animations:
 
