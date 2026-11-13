@@ -4,7 +4,7 @@
 
 FieldShift Planner is a decision-support web app. A farmer picks their field on a map, says what they grow now and what matters most to them (income, saving water, soil health, low risk), and gets the best **crop rotations for the next 1–3 years**. Each rotation is scored with real NASA Earth observations and explained in plain language.
 
-🎬 **Demo video:** https://youtu.be/Dg5IeczcbRU · Team of Dream (Barisal, Bangladesh)
+🌐 **Live demo:** http://165.99.219.251:8099 · 🎬 **Demo video:** https://youtu.be/Dg5IeczcbRU · Team of Dream (Barisal, Bangladesh)
 
 The app has four pages with a dark "mission control" design and smooth animations:
 
